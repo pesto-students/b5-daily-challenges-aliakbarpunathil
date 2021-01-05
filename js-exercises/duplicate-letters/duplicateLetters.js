@@ -1,3 +1,4 @@
+/* eslint-disable */
 function duplicateLetters(inputString) {
   const letterCount = {};
   for (const letter of inputString) {
